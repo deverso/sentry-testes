@@ -1,0 +1,7 @@
+[defaults]
+url = https://sentry.io/
+org = danilo-deverso
+project = danilo-deverso
+
+[auth]
+token=e267b180ca5d4a12a29e2984fcb9386d039f81b89bd746b0ac02c7946083eaf4
